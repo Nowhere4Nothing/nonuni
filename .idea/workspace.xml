@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2060727b-8134-456f-aa34-0fc44dc994b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/non uni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessGame/Startup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessGame/StartupBust.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessGame/gameHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Headfirst/FlashCards/QuizCardBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Headfirst/Jukebox/Jukebox10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Headfirst/Jukebox/MockSongs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Headfirst/Jukebox/SongV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicMachine/BeatBox/BeatBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicMachine/BeatBox/Roo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicMachine/Extra/MiniMusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicMachine/MiniMinimusicApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicMachine/MyDrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicMachine/SimpleGuil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2ICBDgHlHBYzV3zK1ksa79WzGCN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CoffeeOrder">
+    <configuration name="CoffeeOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Headfirst.CoffeeOrder" />
+      <module name="non uni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WhatRunsFirst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartupBust" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessGame.StartupBust" />
+      <module name="non uni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GuessGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simpleStartupDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guessGame.simpleStartupDrive" />
+      <module name="non uni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guessGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoffeeOrder" />
+        <item itemvalue="Application.simpleStartupDrive" />
+        <item itemvalue="Application.StartupBust" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2060727b-8134-456f-aa34-0fc44dc994b5" name="Changes" comment="" />
+      <created>1669675569732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669675569732</updated>
+      <workItem from="1669675570997" duration="4373000" />
+      <workItem from="1669760312501" duration="10175000" />
+      <workItem from="1670298791684" duration="652000" />
+      <workItem from="1673223665075" duration="7087000" />
+      <workItem from="1674012430017" duration="5840000" />
+      <workItem from="1674019180544" duration="957000" />
+      <workItem from="1674020158041" duration="868000" />
+      <workItem from="1674085193564" duration="1247000" />
+      <workItem from="1674094019558" duration="9255000" />
+      <workItem from="1674432389134" duration="171000" />
+      <workItem from="1674432645270" duration="6535000" />
+      <workItem from="1675044016911" duration="4028000" />
+      <workItem from="1675133227943" duration="7972000" />
+      <workItem from="1675141782940" duration="379000" />
+      <workItem from="1675142233265" duration="1153000" />
+      <workItem from="1675294349459" duration="16586000" />
+      <workItem from="1675645895289" duration="6895000" />
+      <workItem from="1675656539734" duration="1528000" />
+      <workItem from="1676246362035" duration="14813000" />
+      <workItem from="1676332127427" duration="55000" />
+      <workItem from="1676334138585" duration="3160000" />
+      <workItem from="1676341950845" duration="7997000" />
+      <workItem from="1676416228228" duration="3572000" />
+      <workItem from="1676424528293" duration="2035000" />
+      <workItem from="1676504605525" duration="12106000" />
+      <workItem from="1676593772578" duration="1042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank/ex2.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank/ex2.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank/ex2.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ExBeJVM1.java</url>
+          <line>6</line>
+          <properties class="ExBeJVM1" method="go">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
