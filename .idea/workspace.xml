@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2060727b-8134-456f-aa34-0fc44dc994b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/non uni.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GuessGame/Startup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GuessGame/StartupBust.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GuessGame/gameHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Headfirst/FlashCards/QuizCardBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Headfirst/Jukebox/Jukebox10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Headfirst/Jukebox/MockSongs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Headfirst/Jukebox/SongV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicMachine/BeatBox/BeatBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicMachine/BeatBox/Roo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicMachine/Extra/MiniMusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicMachine/MiniMinimusicApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicMachine/MyDrawPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicMachine/SimpleGuil.java" afterDir="false" />
+    <list default="true" id="2060727b-8134-456f-aa34-0fc44dc994b5" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/Headfirst/FlashCards/QuizCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Headfirst/FlashCards/QuizCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Headfirst/FlashCards/QuizCardBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +51,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CoffeeOrder">
+  <component name="RunManager">
     <configuration name="CoffeeOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Headfirst.CoffeeOrder" />
       <module name="non uni" />
@@ -150,8 +132,23 @@
       <workItem from="1676416228228" duration="3572000" />
       <workItem from="1676424528293" duration="2035000" />
       <workItem from="1676504605525" duration="12106000" />
-      <workItem from="1676593772578" duration="1042000" />
+      <workItem from="1676593772578" duration="10722000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1676595049492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676595049492</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1676595238968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676595238968</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +164,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
